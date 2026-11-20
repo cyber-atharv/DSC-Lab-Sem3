@@ -1,0 +1,11 @@
+# Compiled binaries
+*.exe
+*.out
+*.o
+*.obj
+
+# VS Code (keep settings and tasks for C dev config)
+.vscode/
+
+# Temporary/test files
+test/
